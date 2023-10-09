@@ -1,0 +1,255 @@
+* {}
+
+.hmain {
+    height: 25px;
+    width: 1260px;
+    background-image: linear-gradient(to right, red, green, yellow);
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-bottom: 2px;
+    text-decoration: underline;
+}
+
+.hmain1 {
+
+    border: 3px solid red;
+    border-radius: 10px;
+    height: 55px;
+    width: 350px;
+    background-color: rgb(147, 184, 186);
+    margin-left: 300px;
+    padding-left: 300px;
+}
+
+.hmain2 {
+    border: 2px solid maroon;
+    border-radius: 10px;
+    height: 128px;
+    width: 1260px;
+    background-color: rgb(112, 206, 209);
+
+
+}
+
+.hmain2a {
+    height: 60px;
+    width: 360px;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: aqua;
+    display: inline-block;
+    text-align: center;
+    margin-left: 30px;
+
+
+}
+
+.hmain2b {
+    height: 60px;
+    width: 360px;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: aqua;
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.hmain2c {
+    height: 60px;
+    width: 360px;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: aqua;
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.hmain2d {
+    height: 60px;
+    width: 360px;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: aqua;
+    text-align: center;
+    margin-left: 447px;
+
+}
+
+.hmain3 {
+    height: 25px;
+    width: 1260px;
+    background-image: linear-gradient(to right, red, yellow, RED);
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+    padding-bottom: 5px;
+    text-decoration: underline;
+}
+
+.hmain4 {
+    height: 300px;
+    width: 1260px;
+    border: 2px solid darkgreen;
+    background-image: radial-gradient(blue, aqua, green)
+}
+
+.hmain4a {
+    height: 100px;
+    width: 180px;
+    border: 2px solid red;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 108px;
+    margin-top: 100px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    background-color: rgb(234, 241, 12);
+    color: maroon;
+
+}
+
+.hmain4b {
+    height: 100px;
+    width: 180px;
+    border: 2px solid red;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 108px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    background-color: rgb(234, 241, 12);
+    color: maroon;
+}
+
+.hmain4c {
+    height: 100px;
+    width: 180px;
+    border: 2px solid red;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 108px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    background-color: rgb(234, 241, 12);
+    color: maroon;
+}
+
+.hmain4d {
+    height: 100px;
+    width: 180px;
+    border: 2px solid red;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 108px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    background-color: rgb(234, 241, 12);
+    color: maroon;
+}
+
+/* ------------------------------------------------bottom-------------------------------------------------- */
+
+.bmain {
+    height: 300px;
+    width: 1260px;
+    border: 1px solid gray;
+   
+}
+
+
+.bmain1 {
+    height: 40px;
+    width: 1260px;
+    background-color: red;
+    border: 0px solid gray;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.bmain2{display: flex;
+    margin-top: 10px;
+
+}
+.bmain2a {
+    height: 60px;
+    width: 380px;
+    border: 0px solid gray;
+    background-color: rgb(30, 199, 30);
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    margin-right: 20px;
+   
+   
+}
+
+.bmain2b {
+    height: 60px;
+    width: 380px;
+    border: 0px solid gray;
+    background-color: rgb(74, 111, 245);
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    margin-right: 20px;
+    
+   
+
+}
+
+.bmain2c {
+    height: 60px;
+    width: 380px;
+    border: 0px solid gray;
+    background-color: rgb(16, 66, 246);
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center; 
+    margin-right: 20px;
+  
+}
+
+.bmain2d {
+    height: 220px;
+    width: 70px;
+    border: opx solid black;
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+
+.bmain2e{
+    width: 1170px;
+    height:150px ;
+    border: 0px solid gray;
+    background-color: orange;
+    color: white;
+    margin-top: -150px;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+.bmain3{
+    width: 1260px;
+    height: 20px;
+    background-color: aqua;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+    margin-top: 10px;
+
+}
